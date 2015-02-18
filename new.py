@@ -71,4 +71,3 @@ display_all(location,table,"word")
 
 
 
-#git test
